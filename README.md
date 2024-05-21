@@ -8,7 +8,7 @@ To get started with the app, follow these steps:
 
 Open the terminal and use the git clone command to download the remote GitHub repository to your computer:
 ```
-git clone https://github.com/Mithusan/Digit-Recognizer.git
+git clone https://github.com/nathanhacault/Digit-Recognizer.git
 ```
 It will create a new folder with the same name as the GitHub repository "Digit-Recognizer". All the project files and git data will be cloned into it.
 
